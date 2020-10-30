@@ -21,11 +21,8 @@ namespace other\other\other {
 	}
 
 	class AnotherItem implements ItemInterface {}
-}
 
-namespace holders\holders\holders {
-
-	class ContainerHolder {
+	class HolderParameters {
 		public $container;
 	}
 }
